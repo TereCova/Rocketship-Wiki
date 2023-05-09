@@ -16,9 +16,9 @@ In this proyect, with HTML and CSS knowledge I was able to develope a website wi
 In this project I focused in building a simple website about Rocketships. 
 It has the following sections:
 
-* **Header**: Section that includes my profile picture, icons and a menu with hyperlinks.
-* **Main**: Section that contaibs the main elements of the website: logo, search bar, icons and buttons. 
-* **Footer**: Section that includes hyperlinks at the bottom of the website. 
+* **Header**: Section that includes the website's name and 2cute images.
+* **Main**: Section that contaibs the main elements of the website: facts and questions about Rocketships. 
+* **Footer**: Section that includes a hyperlink to the oficial Technolochicas website. 
 
 
 ## 3. Project's objective💜
