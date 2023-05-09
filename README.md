@@ -2,9 +2,9 @@
 This is the first website I created learning how to use HTML5 and CSS3. It's about Rokcetships, including fun facts and cute images. 
 I was part of the bootcamp TechnolochicasPRO from April to May 2023, I got to learn about HTML5 & CSS3. I created two websites, this one is Rocketship Wiki page. 
 ## INDEX💜
-* [1. Intro](F)
-* [2. What did I build?](F)
-* [3. Project's objective](F)
+* [1. Intro](https://github.com/TereCova/Rocketship-Wiki/blob/main/README.md#1-intro)
+* [2. What did I build?](https://github.com/TereCova/Rocketship-Wiki/blob/main/README.md#2-what-did-i-build)
+* [3. Project's objective](https://github.com/TereCova/Rocketship-Wiki/blob/main/README.md#3-projects-objective)
 
 ****
 ## 1. Intro💜
