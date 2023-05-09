@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="es">
+<!--Identación, es una buena practica para segmentar nuestra pagina WEB, no es igual en todos los lenguajes.-->
+<head>
+    <meta charset="UTF-8">
+    <title>Tere's 1st webpage</title>
+    <!--this above is the title for my page/site (it shows on the tab), not the website itself-->
+    <!--the style of my webpage is referenced as a link, its added as a page in the whole html document-->
+    <link href="style.css"rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
+
+</head>
+
+<header>
+
+</header>
+
+<body>
+    <h1>Rocketship Wiki</h1>
+<!--you can change the size with h1, h2, h3, h4, h5 and h6-->
+    <h3>Pictures of Rocketships</h3>
+<!--Pic from the web: you can add the image by just copying the image addresss-->
+<img id="foto1" src="https://cdn-icons-png.flaticon.com/512/6426/6426798.png">
+
+<!--Pic from my Mac: create folder for images, save the pics I want to add there and then use it as the source, add path to get there-->
+<img id="foto2" src="Imagenes/pic2 Background Removed.png">
+
+<!--Create external links: use P to open a Paragraph, Target indicates how link will be opened, BLANK indicates it will open it in a new tab-->
+    <p>If you want to know more about Rocketships, <a href="https://facts.net/rocket-facts/" target="_blank">click here</a>.</p>
+<h3>Rocketship lists</h3>
+<P>3 <strong>cool</strong> Rocketship facts </P>
+<!--Listas ordenadas ol:OrderedLists li:ListItem-->
+<ol>
+    <li>Rockets have reached the farthest known place from Earth.</li>
+    <li>The first rocket in space was launched by Germany in 1942.</li>
+    <li>You can make a rocket at home.</li>
+</ol>
+<!--Listas desordenadas: UnOrderedLists-->
+<P>Some <i>not so cool </i>Rocketship facts</P>
+<ul>
+    <li>There is no margin of error for rockets.</li>
+    <li>A rocket caused the first space-related death.</li>
+    <li>Rockets were first used as weapons.</li>
+</ul>
+
+<!--Formularios-->
+<form>
+    <!--Formulario con botones de radio-->
+    <p>Have you ever seen a Rocketship?</p>
+    <label> 
+    <input id="Yes, in real life" type="radio" value="Yes, in real life" name="Yes, in real life-No, only in movies" checked>
+    
+    <!--Respuesta marcada por default-->
+    Yes, in real life
+</label>
+
+<br>
+    <!--break=salto de linea-->
+<label>
+    <input id="Only in movies" type="radio" value="No, only in movies" name="Yes, in real life-No, only in movies"> No, only in movies
+</label>
+
+<!--Formulario con casillas de verificacion checks-->
+<p>What's the best source to get the latest info on Rocketships?</p>
+
+<label><input id="The Nasa" type="checkbox" value="The Nasa" name="source" checked>The Nasa</label>
+
+<br>
+
+<label><input id="Facebook" type="checkbox" value="Facebook" name="source">Facebook</label>
+
+<br>
+
+<label><input id="Wikipedia" type="checkbox" value="Wikipedia" name="source">Wikipedia</label>
+
+
+</form>
+
+</body>
+
+<footer>
+    <p><small>Esta pagina fue creada durante el bootcamp de <a href="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=0CAMQw7AJahcKEwjIuYGA1cb-AhUAAAAAHQAAAAAQAw&url=https%3A%2F%2Ftecnolochicas.mx%2F&psig=AOvVaw0EeSqKGi1XXS-kchE3dyAS&ust=1682568166508872" target="_blank">TechnolochicasPRO</a>.</small></p>
+
+</footer>
+
+</html>
+<!--Asi se ponen los comentarios-->

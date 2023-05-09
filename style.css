@@ -1,0 +1,16 @@
+/*Asi se ponen los comentarios*/ 
+body{background-color: #6eb9d6;
+    color:rgb(0, 0, 0);font-family: 'Quicksand', sans-serif;}
+/*Font family:define el tipo de font a usar, pegar en HEAD EN INDEX.HTML Y TAMBIEN EN CSS*/
+
+/*hacer referencia al elemneto para agregar el color, osea lo que haya puestp como h3, pongo h3 y elije el color*/
+
+h3{color: rgb(0, 0, 0);font-size: 25px;}
+
+h1,p{color:rgb(255, 255, 255)}
+
+img{margin-bottom: 0px;}
+
+#foto1{width: 270px;height: 250px;}
+
+#foto2 {width: 300px; height: 300px;}  
